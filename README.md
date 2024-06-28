@@ -1,5 +1,5 @@
 # Math Game Archive
-Archive Older Version of [Math Game](https://github.com/ronnapat2552/math_game)
+Archive Older Version of [Math Game](https://sites.google.com/view/tete-page/project/math-game)
 
 - 0.1.x
 - 0.2.x
