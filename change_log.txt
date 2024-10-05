@@ -1,0 +1,7 @@
+V.0.4.20 a4.20                      03 Oct 2024                      
+Release With Python V.3.12.6
++ Return Sharing Code in Save Slot
+  - With New Code Format
++ Minor Change
+  - Minor Visual Change in Color Editor
+  - Update Copyright Date in About Screen
