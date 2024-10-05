@@ -1,6 +1,8 @@
 # Math Game Archive
 Archive Older Version of [Math Game](https://sites.google.com/view/tete-page/project/math-game)
 
+[See Lastest Change Log](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/change_log.txt)
+
 - [0.1.x](https://github.com/ronnapat2552/math_game_archive/tree/main/0.1.x)
   - [0.1.5](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.1.x/math_game_V.0.1.5_exe.zip)
 - [0.2.x](https://github.com/ronnapat2552/math_game_archive/tree/main/0.2.x)
@@ -27,6 +29,5 @@ Archive Older Version of [Math Game](https://sites.google.com/view/tete-page/pro
     - [0.4.13](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.1x/math_game_V.0.4.13_np.zip)
   - [0.4.2x](https://github.com/ronnapat2552/math_game_archive/tree/main/0.4.x/0.4.2x)
     - [0.4.20](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.20_np.zip)
-
 
 [Back to Project Page](https://sites.google.com/view/tete-page/project/math-game)
