@@ -1,7 +1,7 @@
 # Math Game Archive
 Archive Older Version of [Math Game](https://sites.google.com/view/tete-page/project/math-game)
 
-[See Lastest Change Log](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/change_log.txt)
+[See Latest Change Log](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/change_log.txt)
 
 - [0.1.x](https://github.com/ronnapat2552/math_game_archive/tree/main/0.1.x)
   - [0.1.5](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.1.x/math_game_V.0.1.5_exe.zip)
