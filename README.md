@@ -1,7 +1,9 @@
 # Math Game Archive
-Archive Older Version of [Math Game](https://sites.google.com/view/tete-page/project/math-game)
+Archive Older Version of [Math Game](https://sites.google.com/view/tete-page/project/math-game)<br>
+This archive contain all public version of this game, from earliest version to latest version.
 
-[See Latest Change Log](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/change_log.txt)
+[See Latest Change Log](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/change_log.txt)<br>
+[Download Latest Version](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.21_np.zip)
 
 - [0.1.x](https://github.com/ronnapat2552/math_game_archive/tree/main/0.1.x)
   - [0.1.5](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.1.x/math_game_V.0.1.5_exe.zip)
