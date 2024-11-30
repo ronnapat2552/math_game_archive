@@ -1,6 +1,9 @@
-V.0.4.21 a4.21                      08 Oct 2024                      
-Release With Python V.3.12.7
-- Show the change log directly from Updater
-- Add Directory Selection Screen
+V.0.4.22 a4.22                      30 Nov 2024
 + Minor Change
-  - Different Color Scheme for Boolean in Options Screen
+  + Apply Color the following Screen
+    - About Screen
+    - Confirmation Exit Screen
+    - Combo Counter in Status Bar 
+  - Fix Minor Typo
++ Other Change
+  - Change How Version Comparing in Update

@@ -4,7 +4,7 @@ This archive contain all public versions of this game, from the earliest version
 Including the Unreleased V.0.1.0 - V.0.1.4 to the public, and the Source Code of V.0.1.x
 
 [See Latest Change Log](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/change_log.txt)<br>
-[Download Latest Version](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.21_np.zip)
+[Download Latest Version](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_np.zip)
 
 - [0.1.x](https://github.com/ronnapat2552/math_game_archive/tree/main/0.1.x)
   - [0.1.4 & Earlier](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/source_code_archive/math_game_V.0.1.x_source_code.zip) *Need Python to Run These.*
@@ -34,5 +34,6 @@ Including the Unreleased V.0.1.0 - V.0.1.4 to the public, and the Source Code of
   - [0.4.2x](https://github.com/ronnapat2552/math_game_archive/tree/main/0.4.x/0.4.2x)
     - [0.4.20](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.20_np.zip)
     - [0.4.21](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.21_np.zip)
+    - [0.4.22](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_np.zip)
 
 [Back to Project Page](https://sites.google.com/view/tete-page/project/math-game)
