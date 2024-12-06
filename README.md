@@ -34,6 +34,6 @@ Including the Unreleased V.0.1.0 - V.0.1.4 to the public, and the Source Code of
   - [0.4.2x](https://github.com/ronnapat2552/math_game_archive/tree/main/0.4.x/0.4.2x)
     - [0.4.20](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.20_np.zip)
     - [0.4.21](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.21_np.zip)
-    - [0.4.22](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_np.zip)
+    - 0.4.22 : [x86-64](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_np.zip) | [x86-32](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_np_x32.zip) | [x86-64_n](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_nuitka_64.zip) | [x86-32_n](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_nuitka_32.zip)
 
 [Back to Project Page](https://sites.google.com/view/tete-page/project/math-game)
