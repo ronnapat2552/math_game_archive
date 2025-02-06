@@ -1,0 +1,314 @@
+Math Game                             Changelog
+Create by Ronnapat Phawaphootanon
+
+Alpha Stage                03/11/2023 - Present
+V.0.1.0 a1.0                        03 Nov 2023                      Release With Python V.3.12.0            
+- New Start Text
+- New Start Screen
+- Adapt a old style to new style (to match new style)
+
+V.0.1.1 a1.1                        11 Nov 2023
+- New Accuracy Formula
+- Remove Old Accuracy
+- Percentage on Correct and Wrong
+
+V.0.1.2 a1.2                        17 Nov 2023
+- Remove the old version string
+- Add about option
+- Revamped input text
+
+V.0.1.3 a1.3                        01 Dec 2023
+- Add new title screen
+- Remove old start text
+- Move about from game options to title screen
+
+V.0.1.4 a1.4                        28 Dec 2023                      Release With Python V.3.12.1
+- Add Status Bar
+- Make Result easier to read
+- Add Pause when finish game
+- Add more info in session info
+
+V.0.1.5 a1.5                        04 Jan 2024                      First release in 2024
+- Add help option in title screen                                    First Version with .exe files
++ Add Quality of Life Feature                                        First Version to release public
+  - See old value when you change value
+  - Type "x" and press enter to cancel option
+- Fix minor bug
+
+V.0.2.0 a2.0                        16 Jan 2024
+- Tweak Title / Game Screen Options
+- Completely new result (end) screen
+- Change Time list style
+
+V.0.2.1 a2.1                        24 Jan 2024
+- Revamped Accuracy Formula
+- Fix Some Bug
+
+V.0.2.2 a2.2                        30 Jan 2024
+- Remove Help in title screen (but you can still read help file)
+- Add Options in title screen
++ Add Quality of Life Feature
+  - Add Shortcut for Game Options (read more in help file)
+- Change visual input ("Type an option here : " => ">> ")
+
+V.0.2.3 a2.3                        03 Feb 2024
+- Revamped About Screen
+- Redesign Options Screen
+- Minor Tweak in Options Screen
+
+V.0.3.0 a3.0                        18 Feb 2024
+- Add Save Game
+- New Division Algorithm replace the old algorithm
++ Add Quality of Life Feature
+  - Add Detail options in end screen
+  - Add Confirmation when you exit the game
+
+V.0.3.1 a3.1                        28 Feb 2024                      Release With Python V.3.12.2
+- Fix Bug
++ Add Quality of Life Feature
+  - Add Save Slot 
+  - Page jumping in Option Screen
+
+== 1st Anniversary of Math Game | 05 Mar 2024 ==
+
+V.0.3.2 a3.2                        09 Mar 2024                      1st Anniversary of Math Game  (Late for 4 Days)
+- Fix Bug
++ Add Quality of Life Feature
+  - UI Improvement
+  - Share Save Slot
+
+V.0.3.3 a3.3                        26 Mar 2024
+- Color UI (some of it, will apply more in future)
+- Customizable division
++ External Setting
+  - Save Setting
+- Fix Bug
+
+V.0.3.4 a3.4                        10 Apr 2024
+- Add new save format JSON
+- Minor Improvement
+- Fix Bug
+
+V.0.4.0  a4.0                       02 May 2024                      Release With Python V.3.12.3
++ User System                                                        Separate the game to 2 editions
+  - EXP & Level System                                                 - Official Edition (This Edition)
+  - Custom Color Name                                                  - Community Edition (Open Source Edition)
++ Minor Improvement
+  - Revamped About Screen
+  - Add color to Options screen
+
+V.0.4.01 a4.01                      29 May 2024
++ Rewrite Save Slot
+  - From Plain Text to JSON
++ Fix Bug
+  - Fix Exit When Confirmation is True
+  - Fix Negative Number Save Slot
++ Other Change
+  - Make X Symbol easier to see
+  + Disable Share Code 
+    - Will be enable later
+
+Change Version Naming               06 Jun 2024
+from 0.4.0a -> 0.4.01
+from 0.4.0b -> 0.4.02
+
+V.0.4.02 a4.02                      12 Jun 2024
+- EXP Bar
+- After Game Display EXP Calculation
+- Colored EXP Level Display ( Include EXP Bar )
+- Add More Shortcut to Options Screen
++ Fix Bug
+  - Fix Options Display Page
++ Other Change
+  - Change Color Palette  
+  - Revamp Save Slot UI
+
+V.0.4.03 a4.03                      19 Jun 2024
+- Pager in Detail info
++ Other Change
+  - Small Change to Options Screen
+
+V.0.4.10 a4.10                      04 Jul 2024
++ Multiplier For EXP Gain
+  - x2 EXP Every Weekend
+  + x3 EXP Special Event
+    - New Year Day
+    - Math Game Anniversary
+    - Christmas Day
+  - Can Be Stacked
++ EXP Gain Rule
+  + The rule EXP will not gain
+    - When Random Number Setting is Same Number
+  + The rule EXP will gain
+    - When Random Number Setting is Different Number 
++ Other Change
+  - Change Layout of Main Screen
+  - Rewrite Question Generator
+  - Update About Screen
+
+V.0.4.11 a4.11                      13 Jul 2024                      Release With Python V.3.12.4
+- Bracket Question
+- Game Update Page
++ Other Change
+  - Fix Typo On About Page
+
+V.0.4.12 a4.12                      20 Jul 2024
++ More Account Customization
+  - Changeable Name
+  - Country
++ Other Change
+  - Show format save game
+  - Show current setup in Save Slot screen
+
+- Main Computer Fixing | 2X Jun 2024 ~ 29 Aug 2024
+
+V.0.4.13 a4.13                      31 Aug 2024                      Release With Python V.3.12.5
+- Minor Tweak UI in Game Options
++ Add Change Mode Screen
+  - To Replace Earlier Version Change Mode Screen
+
+V.0.4.20 a4.20                      03 Oct 2024                      Release With Python V.3.12.6
++ Return Sharing Code in Save Slot
+  - With New Code Format
++ Minor Change
+  - Minor Visual Change in Color Editor
+  - Update Copyright Date in About Screen
+  
+V.0.4.21 a4.21                      08 Oct 2024                      Release With Python V.3.12.7
+- Show the change log directly from Updater
+- Add Directory Selection Screen
++ Minor Change
+  - Different Color Scheme for Boolean in Options Screen
+
+== 1st Anniversary of First Build | 03 Nov 2024 ==
+
+V.0.4.22 a4.22                      30 Nov 2024
++ Minor Change
+  + Apply Color the following Screen
+    - About Screen
+    - Confirmation Exit Screen
+    - Combo Counter in Status Bar 
+  - Fix Minor Typo
++ Other Change
+  - Change How Version Comparing in Update
+
+||-------- Work in progress Zone Ahead --------||
+
+V.0.4.30 a4.30                      XX XXX 2025  [ WIP ]             Release With Python V.3.12.8
++ Mission System
+  - Reset Daily
++ New Extra Mode
+  - True or False Mode
++ Other Change
+  - Available With Terminal
+  + Rewrite User System in JSON
+    - Add Encryption for User data
+
+V.0.4.31 a4.31                      XX XXX 2025  [ WIP ]
++ Enable to Import User data
+  - from V.0.4.30 or later
++ New Extra Mode
+  - Shuffle Mode
+
+V.0.4.32 a4.32                      XX XXX 2025  [ WIP ]
++ New Extra Mode
+  - Fill the Blank Mode
+
+V.0.4.40 a4.40                      XX XXX 2025  [ WIP ]
++ Redesign Options Screen and System
+  - with new way to navigate
+  
+V.0.4.50 a4.50                      XX XXX 2025  [ WIP ]
++ View Save Game File
+  - Compatible All Save Game Version
+
+Beta Stage
+V.0.5.00 b1.00                      XX XXX 2025  [ WIP ]
++ Custom Question
+  - Now you can create your own question with Python!
+
+V.0.6.00 b2.00                      XX XXX 2025  [ WIP ]
+- Local Multiplayer (Alpha Testing)
+
+
+
+- Now -
+
+
+Version Ruling Before Full Release
+X.Y.Zz
+
+X = Major Major | Break Backward Compat with Big New Feature
+Y = Major Minor | Backward Compat with Big New Feature
+Z = Minor Minor | Backward Compat with Small New Feature
+z = Patch       | Fix Bug or Small Update or Quality of Life Update
+
+0.4.00 < 0.4.01 < 0.4.02 < 0.4.03 < 0.4.10 < 0.4.11 < 0.4.20 < 0.4.30 < 0.50.0 
+
+
+Version Ruling After Full Release
+X.YZ.z
+
+X = Major 
+Y = Minor
+Z = Patch
+
+1.00.0 < 1.00.1 < 1.00.2 < 1.1.0 < 1.1.1 < 1.2.0 < 1.2.1 < 1.3.0 < 1.4.0 < 1.4.1 < 2.0.0 < 2.1.0
+
+
+
+
+Dev Timeline
+
+Version   Stage                     Date             Special Note
+
+V.-.-.-   Internal Launch           05 Mar 2023
+
+V.0.1.0   Alpha Stage               03 Nov 2023
+
+  V.0.1.5                           04 Jan 2024      First Version to release public
+
+V.0.2.0                             16 Jan 2024
+
+V.0.3.0                             18 Feb 2024
+
+  V.0.3.4                           10 Apr 2024      Open Source On GitHub
+
+V.0.4.00                            02 May 2024
+  
+  V.0.4.10                          04 Jul 2024
+
+  V.0.4.20                          03 Oct 2024
+
+- Now -
+
+Upcoming Release Schedule 
+
+V.0.50.0  Beta Stage                Nov 2024
+
+V.0.60.0                            Jan 2025
+
+V.0.70.0                            Mar 2025
+
+V.0.80.0                            May 2025
+
+V.0.90.0  Release Candidate         Jul 2025
+
+V.1.00.0  Full Release              Sep 2025
+
+- Far Future -
+
+V.2.0.0                             Oct 2025
+
+V.3.0.0                             May 2026
+
+(Please Note that future release may change date in the future.)
+
+-----------------------------------------------------
+
+================ Release Roadmap ================
+Pre Alpha Stage           05/03/2023 - 03/11/2023
+Alpha Stage (V.0.1.0)           03/11/2023 ~ 2025
+Beta Stage  (V.0.5.00)                2024 - 2026
+Release Candidate Stage (V.0.9.00)    2026 - 2027
+Full Release (V.1.0.0)                       2027
