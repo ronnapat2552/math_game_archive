@@ -18,7 +18,7 @@ The goal is to provide a safe and reliable place to access previous versions of 
 
 📜 [See Latest **Change Log**](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/change_log.txt)<br>
 📄 [See All **Change Log** Version](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/full_change_log.txt)<br>
-⬇️ [Download **Latest Version**](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_np.zip)
+⬇️ [Download **Latest Version**](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_np.zip) | V.0.4.22
 
 
 👇 Click below here, for the full list.
