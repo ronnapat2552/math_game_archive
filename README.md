@@ -6,11 +6,11 @@ perseriving them for history and allowing you to download and enjoy them anytime
 
 ## 📖 About
 This archive is maintained by the [**original creator**](https://github.com/ronnapat2552) of Math Game.<br> 
-The goal is to provide a safe and reliable place to access previous versions of the game, track its evolution, and keep the memories alive.
+The goal is to provide a safe and reliable place to access previous versions of the game and track its evolution.
 
-## 📂 What's Inside?
+## 📂 Repository Content
 🗄️ A collection of all **public versions** <br>
-🔓 **Unreleased Version** of *Math Game* `V.0.1.0` - `V.0.1.4` <br>
+🔓 **Unreleased Version** of *Math Game* `V.0.1.0 - V.0.1.4` <br>
 📄 **Source Code** of Earlier Version `V.0.1.x` <br>
 📜 **Change Log** on latest version of *Math Game*
 
