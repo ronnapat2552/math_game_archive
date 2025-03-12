@@ -56,4 +56,4 @@ The goal is to provide a safe and reliable place to access previous versions of 
   
 </details>
 
-↩️ [Back to Project Page](https://sites.google.com/view/tete-page/project/math-game)
+↩️ [Back to Project Page](https://github.com/ronnapat2552/math_game_archive/blob/main/HOME.md)
