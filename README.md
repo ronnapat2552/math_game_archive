@@ -12,8 +12,8 @@ The goal is to provide a safe and reliable place to access previous versions of 
 
 ## 📂 Repository Content
 🗄️ A collection of all **public versions** <br>
-🔓 **Unreleased Version** of *Math Game* `V.0.1.0 - V.0.1.4` <br>
-📄 **Source Code** of Earlier Version `V.0.1.x` <br>
+🔓 **Unreleased Version** of *Math Game + Pre-Alpha* `V.0.1.0 - V.0.1.4` <br>
+📄 **Source Code** of Earlier Version `0.0.1x - 0.3.x` <br>
 📜 **Change Log** on latest version of *Math Game*
 
 ## 📥 Download
@@ -23,5 +23,8 @@ The goal is to provide a safe and reliable place to access previous versions of 
 ⬇️ [Download **Latest Version**](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/bin/0.4.x/0.4.2x/math_game_V.0.4.22_np.zip) | `V.0.4.22`
 
 *Download Tree is still on **Working in Progress**.<br> So in the mean time, you can click on the `bin` **folder**, and browse the binary file.*
+
+👇 Click below here, for the full list. <br>
+[**List of All Versions**](https://github.com/ronnapat2552/math_game_archive/tree/main/bin)
 
 ↩️ [Back to Project Page](https://github.com/ronnapat2552/math_game_archive/blob/main/doc/HOME.md)
