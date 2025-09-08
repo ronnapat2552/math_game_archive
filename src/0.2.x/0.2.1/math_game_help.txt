@@ -1,0 +1,4 @@
+Math Game Help
+- Basic Navigation -
+Type number or letter and press enter to select it.
+Type "x" and press enter to cancel it. (Especialy single line input)

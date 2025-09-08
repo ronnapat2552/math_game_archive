@@ -1,0 +1,15 @@
+Math Game Help
++ Basic Navigation +
+Type number or letter and press enter to select it.
+Type "x" and press enter to cancel it. (Especialy single line input)
+
++ Advance Navigation +
+  - Game Options
+Quickly change the value
+>> q1 (round)
+>> q2 (num1) (num2)
+>> q3 (add) (sub) (mul) (div)
+  - Options Screen
+Page Jumping to quickly navigate
+>> p (page number)
+

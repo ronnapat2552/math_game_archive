@@ -1,0 +1,11 @@
+{
+    "CheckNum1IsGreaterNum2": true,
+    "CheckNum2IsGreaterNum1": false,
+    "CheckAnsIs1": true,
+    "MaxComboScore": 5,
+    "PersentTorrance": 25,
+    "PauseFinishDur": 1.5,
+    "OptionsItemDis": 6,
+    "ConfirmExit": true,
+    "DevMode": false
+}
