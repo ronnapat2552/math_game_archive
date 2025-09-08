@@ -194,7 +194,7 @@ V.0.4.22 a4.22                      30 Nov 2024
 
 ||-------- Work in progress Zone Ahead --------||
 
-V.0.4.30 a4.30                      XX XXX 2025  [ WIP ]             Release With Python V.3.12.8
+V.0.4.30 a4.30                      XX XXX 2025  [ WIP ]             Release With Python V.3.13.3
 + Mission System
   - Reset Daily
 + New Extra Mode
@@ -224,7 +224,7 @@ V.0.4.50 a4.50                      XX XXX 2025  [ WIP ]
 
 Beta Stage
 V.0.5.00 b1.00                      XX XXX 2025  [ WIP ]
-+ Custom Question
++ Custom Mode
   - Now you can create your own question with Python!
 
 V.0.6.00 b2.00                      XX XXX 2025  [ WIP ]
