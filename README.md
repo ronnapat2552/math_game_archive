@@ -4,7 +4,7 @@
 
 > A digital vault preserving the history and evolution of the Math Game project.
 
-This repository is the **official** archive for all versions of **[Math Game](https://sites.google.com/view/tete-page/project/math-game)**, maintained by its original creator. Here you can safely download and explore the complete development history of the game.<br>
+This repository is the **official** archive for all versions of **[Math Game](https://sites.google.com/view/tete-page/project/math-game)**, maintained by the [original creator](https://github.com/ronnapat2552). Here you can safely download and explore the complete development history of the game.<br>
 
 ---
 
@@ -53,4 +53,4 @@ math_game_archive/
 ## 📜 License & Credits
 
 This archive is maintained by [ronnapat2552](https://github.com/ronnapat2552).  
-All software and content is the property of its respective creators.
+**(c) 2023 - 2025 Ronnapat Phawaphootanon**  All right reserved.
