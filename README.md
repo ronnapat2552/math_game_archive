@@ -1,3 +1,5 @@
+![Math Game Archive](doc/img/math_game_banner.png)
+
 # Math Game Archive 🧮📂
 
 ![Latest Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fronnapat2552%2Fmath_game_archive%2Fmain%2Fdoc%2Fversion.json&query=%24.version&prefix=V.&label=Release)
