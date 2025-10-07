@@ -195,8 +195,6 @@ V.0.4.22 a4.22                      30 Nov 2024
 ||-------- Work in progress Zone Ahead --------||
 
 V.0.4.30 a4.30                      XX XXX 2025  [ WIP ]             Release With Python V.3.13.3
-+ Mission System
-  - Reset Daily
 + New Extra Mode
   - True or False Mode
 + Other Change
@@ -215,6 +213,8 @@ V.0.4.32 a4.32                      XX XXX 2025  [ WIP ]
   - Fill the Blank Mode
 
 V.0.4.40 a4.40                      XX XXX 2025  [ WIP ]
++ Mission System
+  - Reset Daily
 + Redesign Options Screen and System
   - with new way to navigate
   
