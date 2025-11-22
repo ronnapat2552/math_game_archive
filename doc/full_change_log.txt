@@ -192,13 +192,29 @@ V.0.4.22 a4.22                      30 Nov 2024
 + Other Change
   - Change How Version Comparing in Update
 
+V.0.4.23 a4.23                      22 Nov 2025                      Release With Python V.3.14.0
++ Minor Change
+  + Revamped the Color Editor
+    - Using Keyboard Directly
+  - Fix the URL for the latest version change log
++ System Change
+  + Clean Up the Codebase
+    - Separated "Color Editor" to own file
+
+
+
+
+||-------- Done Feature -------||
+
 ||-------- Work in progress Zone Ahead --------||
 
-V.0.4.30 a4.30                      XX XXX 2025  [ WIP ]             Release With Python V.3.13.3
+V.0.4.30 a4.30                      XX XXX 2025  [ WIP ]
 + New Extra Mode
   - True or False Mode
 + Other Change
-  - Available With Terminal
+  + Change the EXP Formula
+    - From: 
+    - To:   100 + 10 * (lvl ** 2)
   + Rewrite User System in JSON
     - Add Encryption for User data
 
@@ -233,7 +249,6 @@ V.0.6.00 b2.00                      XX XXX 2025  [ WIP ]
 
 
 - Now -
-
 
 Version Ruling Before Full Release
 X.Y.Zz

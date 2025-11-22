@@ -1,9 +1,8 @@
-V.0.4.22 a4.22                      30 Nov 2024
+V.0.4.23 a4.23                      22 Nov 2025                      Release With Python V.3.14.0
 + Minor Change
-  + Apply Color the following Screen
-    - About Screen
-    - Confirmation Exit Screen
-    - Combo Counter in Status Bar 
-  - Fix Minor Typo
-+ Other Change
-  - Change How Version Comparing in Update
+  + Revamped the Color Editor
+    - Using Keyboard Directly
+  - Fix the URL for the latest version change log
++ System Change
+  + Clean Up the Codebase
+    - Separated "Color Editor" to own file

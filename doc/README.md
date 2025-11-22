@@ -53,6 +53,7 @@ The goal is to provide a safe and reliable place to access previous versions of 
     - [0.4.20](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.20_np.zip)
     - [0.4.21](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.21_np.zip)
     - 0.4.22 : [x86-64](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_np.zip) | [x86-32](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.22_np_x32.zip)
+    - [0.4.23](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/0.4.x/0.4.2x/math_game_V.0.4.23_np.zip)
   
 </details>
 
