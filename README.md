@@ -24,7 +24,7 @@ This repository is the **official** archive for all versions of **[Math Game](ht
 ### Latest Version
 The most recent public release is ![Latest Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fronnapat2552%2Fmath_game_archive%2Fmain%2Fdoc%2Fversion.json&query=%24.version&prefix=V.&label=).
 
-* 🪟 **Windows x64:** [**ZIP Download**](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/bin/0.4.x/0.4.2x/math_game_V.0.4.22_np.zip) *(No Python Required)*
+* 🪟 **Windows x64:** [**ZIP Download**](https://raw.githubusercontent.com/ronnapat2552/math_game_archive/main/bin/0.4.x/0.4.2x/math_game_V.0.4.23_np.zip) *(No Python Required)*
 * *Note:* There are no native builds for 🍎 **macOS** or 🐧 **Linux**, but it may run using **WINE**.
 
 ### All Versions
