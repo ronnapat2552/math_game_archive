@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3508 1182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.498536,0,0,0.498536,-56.487554,61.559078)">
+        <path d="M1696.144,646.478L1696.144,1475.703C1696.144,1573.774 1616.523,1653.394 1518.453,1653.394L689.227,1653.394C591.157,1653.394 511.536,1573.774 511.536,1475.703L511.536,646.478C511.536,548.407 591.157,468.786 689.227,468.786L1518.453,468.786C1616.523,468.786 1696.144,548.407 1696.144,646.478Z" style="stroke:rgb(48,48,48);stroke-width:94.77px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0.339594,-643.132952)">
+        <text x="258.542px" y="1114.222px" style="font-family:'JetBrainsMono-Regular', 'JetBrains Mono', monospace;font-size:153.543px;fill:white;">1+2=?</text>
+        <g transform="matrix(153.543307,0,0,153.543307,442.79385,1316.899168)">
+        </g>
+        <text x="258.542px" y="1316.899px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:153.543px;fill:white;">&gt;_</text>
+    </g>
+    <g transform="matrix(1,0,0,1,235.75883,-649.606299)">
+        <text x="1783.888px" y="1209.449px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:236.22px;fill:rgb(48,48,48);">Math Game</text>
+        <g transform="matrix(177.165354,0,0,177.165354,3059.478744,1443.307087)">
+        </g>
+        <text x="2315.384px" y="1443.307px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:177.165px;fill:rgb(48,48,48);">ARCRIVE</text>
+    </g>
+</svg>
