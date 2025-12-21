@@ -11,9 +11,9 @@
         <text x="258.542px" y="1316.899px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:153.543px;fill:white;">&gt;_</text>
     </g>
     <g transform="matrix(1,0,0,1,235.75883,-649.606299)">
-        <text x="1783.888px" y="1209.449px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:236.22px;fill:rgb(48,48,48);">Math Game</text>
+        <text x="1783.888px" y="1209.449px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:236.22px;fill:rgb(48,48,48);stroke:rgb(192,192,192);stroke-width:2.95px;stroke-linecap:butt;stroke-miterlimit:2;">Math Game</text>
         <g transform="matrix(177.165354,0,0,177.165354,3059.478744,1443.307087)">
         </g>
-        <text x="2315.384px" y="1443.307px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:177.165px;fill:rgb(48,48,48);">ARCRIVE</text>
+        <text x="2315.384px" y="1443.307px" style="font-family:'JetBrainsMono-Bold', 'JetBrains Mono', monospace;font-weight:700;font-size:177.165px;fill:rgb(48,48,48);stroke:rgb(192,192,192);stroke-width:2.95px;stroke-linecap:butt;stroke-miterlimit:2;">ARCRIVE</text>
     </g>
 </svg>
