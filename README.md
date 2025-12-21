@@ -1,4 +1,4 @@
-![Math Game Archive](doc/img/math_game_banner.svg)
+![Math Game Archive](doc/img/math_game_banner_new.svg)
 
 # Math Game Archive 🧮📂
 
