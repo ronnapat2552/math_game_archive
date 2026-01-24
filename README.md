@@ -59,6 +59,6 @@ math_game_archive/
 ## 📜 License & Credits
 
 This archive is maintained by [ronnapat2552](https://github.com/ronnapat2552).  
-The *Math Game* software and its source code are **© 2023 – 2025 Ronnapat Phawaphootanon**. All rights reserved.
+The *Math Game* software and its source code are **© 2023 – 2026 Ronnapat Phawaphootanon**. All rights reserved.
 
 ***Note:** This repository is an archive. The software is provided as-is for historical and educational purposes. For issues related to the repository content (e.g., broken links), you can open a GitHub Issue.*
