@@ -1,4 +1,4 @@
-![Math Game Archive](doc/img/math_game_banner_new.svg)
+![Math Game Archive](doc/img/math_game_banner.svg)
 
 # Math Game Archive 🧮📂
 
@@ -13,7 +13,7 @@ This repository is the **official** archive for all versions of **[Math Game](ht
 ## ✨ Repository Features
 
 * 🗄️ **Complete History:** Download every public release of Math Game, from the earliest pre-alpha to the latest version.
-* 🔓 **Unreleased Builds:** Access rare, developmental versions (`0.0.1a - V.0.1.4`) for historical or testing purposes.
+* 🔓 **Unreleased Builds:** Access developmental versions (`0.0.1a - V.0.1.4`) for historical or testing purposes.
 * 📄 **Source Code Available:** Examine the source code for versions `0.0.1x - 0.3.x`.
 * 📜 **Detailed Changelogs:** Track every change, bug fix, and new feature through comprehensive logs.
 
